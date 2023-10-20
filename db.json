@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "Claire",
+      "lastname": "AYANOU",
+      "email": "claire@yahoo.fr",
+      "password": "yahooclaire"
+    },
+    {
+      "id": 3,
+      "firstname": "Tountoun",
+      "lastname": "AYANOU",
+      "email": "tountounabela@gmail.com",
+      "password": "tountounabela"
+    },
+    {
+      "id": 4,
+      "firstname": "Mike",
+      "lastname": "AYANOU",
+      "email": "mike@yahoo.fr",
+      "password": "mikeayanou"
+    },
+    {
+      "id": 5,
+      "firstname": "Gerard",
+      "lastname": "AYANOU",
+      "email": "gerardo@gmail.com",
+      "password": "gerardo"
+    },
+    {
+      "id": 6,
+      "firstname": "Samuel",
+      "lastname": "ETOO",
+      "email": "sam_etoo@yahoo.fr",
+      "password": "yahhoosam"
+    },
+    {
+      "id": 7,
+      "firstname": "Rita",
+      "lastname": "DJAKOTO",
+      "email": "djakrita@gmail.com",
+      "password": "6643hoie"
+    },
+    {
+      "id": 8,
+      "firstname": "Michel",
+      "lastname": "GOHOU",
+      "email": "michelgohou@yoahoo.fr",
+      "password": "gogogog"
+    },
+    {
+      "id": 9,
+      "firstname": "Ayabavi",
+      "lastname": "KOUEVIDJIN",
+      "email": "ayabavi@gmail.com",
+      "password": "ayabavi9922"
+    },
+    {
+      "id": 10,
+      "firstname": "Pascal",
+      "lastname": "AKITI",
+      "email": "akitipascal@gmail.com",
+      "password": "pascalito121"
+    },
+    {
+      "id": 11,
+      "firstname": "Esther",
+      "lastname": "EUHH",
+      "email": "estheram@gmail.com",
+      "password": "esthelle"
+    },
+    {
+      "id": 12,
+      "firstname": "Appolinaire",
+      "lastname": "GOHOU",
+      "email": "appoayanou@gmail.com",
+      "password": "apploliaya"
+    },
+    {
+      "id": 13,
+      "firstname": "Igor",
+      "lastname": "AMAH",
+      "email": "igormath@gmail.com",
+      "password": "igorhtam"
+    },
+    {
+      "id": 14,
+      "firstname": "Stephane",
+      "lastname": "ATTIGLO",
+      "email": "stephaneatti@gmail.com",
+      "password": "stephaneitta"
+    },
+    {
+      "id": 15,
+      "firstname": "Esther",
+      "lastname": "EUHH",
+      "email": "estheram@gmail.com",
+      "password": "estheram"
+    },
+    {
+      "id": 18,
+      "firstname": "Johnson",
+      "lastname": "MICHAEL",
+      "email": "mickjohn@yahoo.fr",
+      "password": "mickyjohoson"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
